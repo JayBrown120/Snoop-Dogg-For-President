@@ -1,0 +1,39 @@
+.green{color:green;
+}
+.blue{ color:blue;
+}
+img{width:400px;
+padding:20px;
+}
+button{
+    font-size:100px;
+    background-color:green;
+    color:white;
+    margin:auto;
+    border:20px solid blue;
+}
+h4{
+    font-size:30px;
+    color:blue;
+}
+h5{font-size:30px;
+color:blue;
+}
+li{
+    font-size:30px;
+    color:green;
+}
+.donate{
+    display:flex;
+    justify-content:center;
+}
+.sw{
+    display:flex;
+}
+.img{
+    display:flex;
+}
+.pic1, .pic2, .pic3{
+    width:190px;
+    height:130px;
+}
